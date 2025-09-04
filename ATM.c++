@@ -8,7 +8,7 @@ int main() {
     double amount;
 
     while (true) {
-        cout << "\nATM menu" << endl; // added \n for spacing
+        cout << "\nATM menu" << endl; 
         cout << "1. Check balance" << endl;
         cout << "2. Deposit" << endl;
         cout << "3. Withdraw" << endl;
