@@ -12,7 +12,8 @@ int main() {
         cout << "1. Check balance" << endl;
         cout << "2. Deposit" << endl;
         cout << "3. Withdraw" << endl;
-        cout << "4. Exit" << endl;
+        cout << "4. Enter" << endl;
+        cout << "5. Exit" << endl;
         cout << "Enter your choice: ";
         cin >> choice;
 
